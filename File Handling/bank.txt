@@ -1,0 +1,5 @@
+Type,Amount
+deposit,2000.0
+withdrawal,2000.0
+deposit,100.0
+withdrawal,100.0
